@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cicero", "Cicero\Cicero.csproj", "{6BA2CC53-7473-4650-9E24-E148A91F2318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cicero.Tests", "Cicero.Tests\Cicero.Tests.csproj", "{5BC41F4B-1A43-420A-99D4-4390EB9A7606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA2CC53-7473-4650-9E24-E148A91F2318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA2CC53-7473-4650-9E24-E148A91F2318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA2CC53-7473-4650-9E24-E148A91F2318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA2CC53-7473-4650-9E24-E148A91F2318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC41F4B-1A43-420A-99D4-4390EB9A7606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC41F4B-1A43-420A-99D4-4390EB9A7606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC41F4B-1A43-420A-99D4-4390EB9A7606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC41F4B-1A43-420A-99D4-4390EB9A7606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84C4D78A-3F4B-4239-8885-55B347C672AC}
+	EndGlobalSection
+EndGlobal
